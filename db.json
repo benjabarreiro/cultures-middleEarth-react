@@ -1,0 +1,16 @@
+{
+  "cultures": [
+    {
+      "id": 1,
+      "name": "Elven culture"
+    },
+    {
+      "name": "Numenorean",
+      "id": 2
+    },
+    {
+      "name": "Dwarvish culture",
+      "id": 3
+    }
+  ]
+}
